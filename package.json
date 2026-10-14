@@ -1,0 +1,13 @@
+{
+  "name": "browse-bridge",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "dependencies": {
+    "playwright": "1.61.1"
+  },
+  "license": "MIT"
+}
